@@ -9,4 +9,4 @@ If the user lifts their finger while on top of a DragTarget, that target is give
 ## What is DragTarget?
 It's a widget that receives data when a Draggable widget is dropped.
 
-> Feedback is a Widget tyoe that displays while the widget is being dragged.
+> Feedback is a Widget that displays while the widget is being dragged.
